@@ -1,6 +1,7 @@
 {
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "'JetBrains Mono'",
     "editor.fontSize": 17,
     "editor.fontWeight": "400",
@@ -12,7 +13,7 @@
     "editor.wordWrap": "on",
     "editor.cursorStyle": "line",
     "editor.cursorWidth": 5,
-    "editor.cursorBlinking": "solid",
+    "editor.cursorBlinking": "expand",
     "editor.renderWhitespace": "all",
     "files.trimTrailingWhitespace": true,
     "terminal.integrated.fontFamily": "'JetBrains Mono'",
@@ -32,5 +33,6 @@
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
     "extensions.ignoreRecommendations": true,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "editor.cursorSmoothCaretAnimation": true
 }
